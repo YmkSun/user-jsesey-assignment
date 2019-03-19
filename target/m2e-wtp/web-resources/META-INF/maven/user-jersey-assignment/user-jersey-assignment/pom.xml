@@ -77,7 +77,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>sample</finalName>
+		<finalName>userMgmt</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-war-plugin</artifactId>
